@@ -2,6 +2,8 @@
 
 Responsive one-page landing page for SAYTABLE, a Cambodia-focused restaurant guest feedback and Google review support service.
 
+**Live preview URL:** [https://hrkfreelance-droid.github.io/saytable-landing-page/](https://hrkfreelance-droid.github.io/saytable-landing-page/)
+
 ## Working brand
 - Name: SAYTABLE
 - Positioning: Guest feedback for restaurants in Cambodia
